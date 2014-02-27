@@ -13,6 +13,7 @@ import android.widget.RemoteViews;
 
 public class MyWidgetIntentReceiver extends BroadcastReceiver {
 
+	
 	private static int clickCount = 0;
 	
 	@Override
